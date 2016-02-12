@@ -427,6 +427,7 @@ hr {
 }
 #add-site #login-details {
   padding-top: 40px;
+  background-color: grey;
 }
 #add-site #login-credentials {
   display: none;
@@ -1323,7 +1324,7 @@ hr {
   margin-right: 8px;
 }
 .event .media .app-ico img {
- 
+
    
 }
 
