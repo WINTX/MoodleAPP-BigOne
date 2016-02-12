@@ -431,7 +431,7 @@ hr {
 }
 #add-site #login-credentials {
   display: none;
-  background-color: grey;
+  
 }
 #add-site #helplogin a {
   color: #ffffff;
