@@ -1322,9 +1322,15 @@ hr {
   margin-right: 8px;
 }
 .event .media .app-ico img {
-  width: 58px;
-  height: 100%;
+  width: 18px;
+  height: auto;
 }
+
+.app-ico img {
+   width: 58px;
+  
+}
+
 .event .description img {
   margin: 20px 0 20px 20px;
 }
