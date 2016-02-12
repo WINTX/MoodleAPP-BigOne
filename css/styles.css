@@ -1039,7 +1039,8 @@ hr {
   padding: 10px;
 }
 .content-index .fullpath {
-  width: 100%;
+ 
+
   background-color: #eee;
   position: fixed;
   bottom: 0;
@@ -1322,8 +1323,8 @@ hr {
   margin-right: 8px;
 }
 .event .media .app-ico img {
-  max-width: 30%;   
-  max-height: 50%;   
+ 
+   
 }
 
 
