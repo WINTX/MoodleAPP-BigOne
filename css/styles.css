@@ -434,7 +434,7 @@ hr {
 
 }
 #add-site #helplogin a {
-  color: grey;
+  color: #ffffff;
   text-shadow: 0px 1px 1px rgba(0, 0, 0, 0.2);
   letter-spacing: .5px;
   display: inline-block;
@@ -1325,7 +1325,7 @@ hr {
   margin-right: 8px;
 }
 .event .media .app-ico img {
-
+  width: 80px;
    
 }
 
