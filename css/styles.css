@@ -427,10 +427,11 @@ hr {
 }
 #add-site #login-details {
   padding-top: 40px;
-  background-color: grey;
+
 }
 #add-site #login-credentials {
   display: none;
+  background-color: grey;
 }
 #add-site #helplogin a {
   color: #ffffff;
