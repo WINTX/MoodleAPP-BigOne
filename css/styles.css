@@ -436,12 +436,8 @@ hr {
 
 }
 
-#login-credentials input{
-  background: url("../img/event-user.png") no-repeat scroll 0 0 transparent;
-    border: 1px solid #BFBFBF;
-    color: #BFBFBF;
-    padding: 25px 25px 25px 25px;
-    
+#addsitebutton{
+  background-color: grey;
 }
 
 #helplogin{
