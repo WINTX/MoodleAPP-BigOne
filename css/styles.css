@@ -430,10 +430,17 @@ hr {
 
 }
 
+/* sombreado input*/
 #login-details input{
   background-color: grey;
 
 }
+
+#login-details{
+  background-color: grey;
+
+}
+
 
 #add-site #login-credentials {
   display: none;
