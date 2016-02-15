@@ -430,8 +430,8 @@ hr {
 
 }
 
-#login-details p{
-  background: grey;
+#login-details input{
+  background-color: grey;
 
 }
 
