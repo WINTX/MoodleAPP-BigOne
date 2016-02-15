@@ -430,11 +430,6 @@ hr {
 
 }
 
-/* sombreado input*/
-#login-details input{
-  background-color: grey;
-
-}
 
 #add-site #login-credentials {
   display: none;
@@ -444,6 +439,7 @@ hr {
 #helplogin{
   background-color: grey;
 }
+
 #add-site #helplogin a {
   color: #ffffff;
   text-shadow: 0px 1px 1px rgba(0, 0, 0, 0.2);
