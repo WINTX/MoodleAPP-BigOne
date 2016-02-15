@@ -74,7 +74,7 @@ ol {
   margin-top: 0;
 }
 h1 {
-  font-size: 78px;
+  font-size: 18px;
   font-size: 1.125rem;
   font-weight: normal;
 }
@@ -429,6 +429,12 @@ hr {
   padding-top: 40px;
 
 }
+
+#login-details p{
+  background: grey;
+
+}
+
 #add-site #login-credentials {
   display: none;
 
