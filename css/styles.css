@@ -436,15 +436,13 @@ hr {
 
 }
 
-#login-details{
-  background-color: grey;
-
-}
-
-
 #add-site #login-credentials {
   display: none;
 
+}
+
+#helplogin{
+  background-color: grey;
 }
 #add-site #helplogin a {
   color: #ffffff;
